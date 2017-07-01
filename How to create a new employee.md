@@ -1,0 +1,1 @@
+As a matter of best practices, a new employee should not be created before knowing the exact details of his work address, job title, manager and other information. In fact, all such pre-requisite information should to be fed into the system before actually creating a new employee. Such information can be entered on the fly, but is usually a more confusing process
