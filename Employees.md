@@ -28,3 +28,8 @@ Admin login --> Settings --> User Interface --> Menu Items --> Searched for Offi
 #### Removing Employee tags ####
 Admin login --> Settings --> User Interface --> Menu Items --> Searched for Employees/Configuration --> Edit --> Changed Access rights from Employee/Manager to Administration/Access Rights.
 This way, no one gets to assign tags to employees. In fact, the employee configuration menu item is not even visible unless you activate the developer mode in an admin account
+
+#### More changes to the employee form #### 
+Remove Coach and Home address
+Ask the user to enter home address in the notes section
+Remove tags section that used to say Part Time, etc
