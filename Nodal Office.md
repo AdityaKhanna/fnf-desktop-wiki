@@ -15,10 +15,11 @@ Contacts --> Create
 
 ##### Step 2: Create a new office #####
 Employees --> Offices --> Create
-Department Name - Enter the name of the Node
-Parent Department - Select Administration
-Manager - Leave it blank
-Save
+
+* Department Name - Enter the name of the Node
+* Parent Department - Select Administration
+* Manager - Leave it blank
+* Save
 
 ##### Step 3: Assign the Nodal in-charge #####
 This requires first [creating a new Employee](How to create a new employee) if the employee doesn't already exist.
