@@ -24,5 +24,6 @@ Employees --> Offices --> Create
 ##### Step 3: Assign the Nodal in-charge #####
 This requires first [creating a new Employee](How to create a new employee) if the employee doesn't already exist.
 Once the employee record has been created, follow these steps - 
+
 Employees --> Offices --> Select Nodal office --> Edit
 On the Manager drop down, search for and select the relevant employee
