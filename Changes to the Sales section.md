@@ -1,0 +1,1 @@
+Side menu - Change quotations to new orders and Sales orders to confirmed orders
