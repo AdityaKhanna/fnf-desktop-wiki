@@ -27,4 +27,4 @@ Admin login --> Settings --> User Interface --> Menu Items --> Searched for Offi
 
 #### Removing Employee tags ####
 Admin login --> Settings --> User Interface --> Menu Items --> Searched for Employees/Configuration --> Edit --> Changed Access rights from Employee/Manager to Administration/Access Rights.
-This way, I as an administrator can see that the tags feature is still available, but it doesn't appear for other people
+This way, no one gets to assign tags to employees. In fact, the employee configuration menu item is not even visible unless you activate the developer mode in an admin account
