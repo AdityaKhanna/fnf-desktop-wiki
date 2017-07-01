@@ -9,8 +9,18 @@ res.partner
 ```
  The predefined fields have one called Working Address, and this is not that straight forward. 
 
-### Filling in the Working Address ###
+#### Filling in the Working Address ####
 Odoo offers you to create a new working address or select from a drop down. But the weird part is that in the drop down you'd see not addresses but names of people and companies.
 This is because Odoo fills the working address field with an object of type 'partner'. If you activate the developer mode, click on the pop out button and then hover over the Name field, it would say res.partner
 
-So adding a new address is like adding a new object of type partner. Ideally you would not want that while filling in an address you are given a dropdown of all kinds of people and companies. So I'm creating an issue for this so that in the future we can restrict this to list of addresses of company offices
+So adding a new address is like adding a new object of type partner. Ideally you would not want that while filling in an address you are given a dropdown of all kinds of people and companies. So I'm creating an issue for this so that in the future we can restrict this to list of addresses of company offices.
+
+#### From Departments to Offices ####
+The default Odoo model of department seems not very useful to the current organization hierarchy. So I'm changing only the name of the department to Office. Made this change in two places - 
+
+##### Side Menu #####
+Admin login --> Settings --> User Interface --> Menu Items --> Searched for Deparments --> Edit --> Change Departments to Offices
+
+##### Action Name #####
+This happened after the above edit, so that Offices is in the list already when you search for it
+Admin login --> Settings --> User Interface --> Menu Items --> Searched for Offices --> Action| Departments --> Edit --> Change Action name from Departments to Offices
