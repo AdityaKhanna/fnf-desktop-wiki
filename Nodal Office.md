@@ -3,6 +3,7 @@ Every nodal office fulfills a number of functions from being a representative fo
 
 ##### Step 1: Create a new entity #####
 Contacts --> Create 
+
 1. Between Individual and Company, select Company
 2. Enter Name of the Node
 3. Select Country - India. Only after India is selected that the list of Indian states gets populated
