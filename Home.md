@@ -6,4 +6,5 @@ Welcome to the FnF Desktop app wiki! Here you'll find information strictly about
 I would try and update this wiki with information on each change that I carry out, giving an explanation of what I've understood and on the basis of that, what I've done.
 
 I would keep adding here links to new pages that we add to the wiki.
+
 [Employees](Employees)
