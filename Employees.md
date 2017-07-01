@@ -24,3 +24,6 @@ Admin login --> Settings --> User Interface --> Menu Items --> Searched for Depa
 ##### Action Name #####
 This happened after the above edit, so that Offices is in the list already when you search for it
 Admin login --> Settings --> User Interface --> Menu Items --> Searched for Offices --> Action| Departments --> Edit --> Change Action name from Departments to Offices
+
+#### Removing Employee tags ####
+Admin login --> Settings --> User Interface --> Menu Items --> Searched for Employees/Configuration --> Edit --> Changed Access rights from Employee/Manager to Administration/Access Rights
