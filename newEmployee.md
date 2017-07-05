@@ -10,17 +10,16 @@ In order to go step by step towards adding a new employee, we need to answer the
 * What is the personal information we have about the employee?
 * What is the capacity in which the employee can use the desktop application?
 
-In order to associate the employee to a node, we first need to know how to [create a new node](Nodal Office.md), if that's required. We then need to create the employee's [personal profile](#personal-profile) and finally, we need to [create a desktop user](#desktop-user) corresponding to the new employee being added. At this point we have answers to all the questions above. After this, the steps are straightforward. 
-
-
-##### Personal Profile#####
-
-The steps here are very similar to the steps followed to create the physical location for a new Node. We need to navigate to ```Sales --> Customers --> Create``` and select the company as Farms and Farmers. Then fill in all the personal details of the employee. Again it is important that in the ```Sales and Purchases``` tab we untick ```Is A Customer```
+In order to associate the employee to a node, we first need to know how to [create a new node](nodalOffice.md), if that doesn't exist already. We then need to [create a desktop user](#desktop-user) corresponding to the new employee being added. Finally, create the employee's [personal profile](#personal-profile). At this point we have answers to all the questions above. After this, the steps are straightforward. 
 
 ##### Desktop User #####
 
 Navigate to ```Settings --> Users --> Create```
-Enter name, email and create a new password and save. In order to provide access to the user to use the functionality, navigate to ```Settings --> Groups``` and search for ```Uncategorized```. From the search results, select the right option. Lets say you select ```Head Office Executive```. When the form opens, select ```Edit``` and then ```Add an Item``` within the Users tab. When the popup window opens, *Remove the ```Internal Users``` filter*. Without removing the filter, the newly created user will not appear in the list because we haven't configured his information yet. Search for the user and add to the group.  
+Enter name, email and create a new password and save. In order to provide access to the user to use the functionality, navigate to ```Settings --> Groups``` and search for ```Uncategorized```. From the search results, select the right option. Lets say you select ```Head Office Executive```. When the form opens, select ```Edit``` and then ```Add an Item``` within the Users tab. When the popup window opens, search for the user and add to the group.  
+
+##### Personal Profile#####
+
+Adding a new system user automatically makes him a customer as well. So we navigate to ```Sales --> Customers``` and select the newly created Customer, followed by ```Edit```. We markt the company as Farms and Farmers. Change the ```Address Type``` from **Contact** to **Other Address** and then fill in all the personal details of the employee. Lastly, it is important that in the ```Sales and Purchases``` tab, we untick ```Is A Customer```
 
 ### Putting it all together ###
 
