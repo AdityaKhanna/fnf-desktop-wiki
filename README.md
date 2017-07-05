@@ -7,11 +7,11 @@ I would try and update this wiki with information on each change that I carry ou
 
 To begin with, lets see how the application is to be used for managing all the [Sales](sales.md) operations. Alternatively, you could also choose to understand some other functionality that has been implemented by visiting the following pages directly. 
 
-[Employees](How to create a new employee.md)
+[Employees](newEmployee.md)
 
-[Nodes](Nodal Office.md)
+[Nodes](nodalOffice.md)
 
-[Products](New Product.md)
+[Products](newProduct.md)
 
 [Sales](sales.md)
 
