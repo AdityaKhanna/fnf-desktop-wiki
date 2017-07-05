@@ -11,7 +11,7 @@ There are two types of customers - farmers and dehaat coordinators. In order to 
 ### Create a new sales order
 ```Sales --> Sales Orders --> Create```
 
-**Customer:** Start typing the name of the customer and the name would appear in the drop down. If there are multiple customers with the same name, it is possible to search using phone number (instructions for the same coming soon) If a customer doesn't exist, a new one can be created from the drop down itself. Please note that as of now, all users can [add a new Customer](access rights.md)
+**Customer:** Start typing the name of the customer and the name would appear in the drop down. If there are multiple customers with the same name, it is possible to search using phone number (instructions for the same coming soon) If a customer doesn't exist, a new one can be created from the drop down itself. Please note that as of now, [all users can add a new Customer](accessRights.md)
 **Invoice Address** Gets auto-filled with the stored address of the customer, but can be modified
 **Delivery Address** Can be selected or modified independently from the invoice address
 
