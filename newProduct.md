@@ -31,7 +31,7 @@ The current categories defined in the system are
 2. Output
 	+ Fruits
 
-Editing the categories is straightforward. But not every user can edit product information. [Access management](access rights.md) is handled by creating different user groups.
+Editing the categories is straightforward. But not every user can edit product information. [Access management](accessRights.md) is handled by creating different user groups.
 
 ## Product Variants
 Variants help distinguish between different SKUs. To see all variants of products go to ```Sales --> Product Variants``` 
