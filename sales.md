@@ -1,3 +1,4 @@
+## Sales ##
 There are two types of customers - farmers and dehaat coordinators. In order to use the desktop application to record sales transactions, here are the steps - 
 
 1. [Create a new Sales Order](#create-a-new-sales-order)

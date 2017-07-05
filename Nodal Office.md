@@ -1,29 +1,24 @@
 ### How to create a new Node ###
 Every nodal office fulfills a number of functions from being a representative for Farms and Farmers to being a warehouse location. Hence, creating a node requires entering a lot of information. 
 
-##### Step 1: Create a new entity #####
-Contacts --> Create 
+##### Step 1: Create a new physical location for the node #####
 
-1. Between Individual and Company, select Company
+Navigate to ```Sales --> Customers --> Create```
+
+1. Between Individual and Company, select Individual
 2. Enter Name of the Node
-3. Select Country - India. Only after India is selected that the list of Indian states gets populated
-4. Select State
-5. Fill in the rest of the address 
-6. Enter Phone number with STD code 
-7. Enter mobile and email address if available
-8. Click on Sale and Purchases --> Untick is a Customer and is a Vendor
+3. Select Company as Farms and Farmers from the drop down
+4. Change address type from Contact to Other address, and fill in the address of the new Node
+5. Enter phone, mobile and email, leave the other fields blank
+5. Move to the Sales and Purchases tab and untick the ```Is a Customer``` field. **This step is very important**. Save the details. 
 
-##### Step 2: Create a new office #####
-Employees --> Offices --> Create
+##### Step 2: Designate the new node as a new department #####
+
+Navigate to ```Employees --> Offices --> Create```
 
 * Department Name - Enter the name of the Node
 * Parent Department - Select Administration
-* Manager - Leave it blank
+* Manager - If the new node Manager has not been added as an employee, then this node should be managed by someone from the head office or administration. Once a [new employee](How to create a new employee.md) has been created, we can change the manager later. 
 * Save
 
-##### Step 3: Assign the Nodal in-charge #####
-This requires first [creating a new Employee](How to create a new employee) if the employee doesn't already exist.
-Once the employee record has been created, follow these steps - 
-
-Employees --> Offices --> Select Nodal office --> Edit
-On the Manager drop down, search for and select the relevant employee
+**Note** *Please note that node information is now input in two places - as a physical address and as an organization department. One should be careful to check at both places while making any changes.*
