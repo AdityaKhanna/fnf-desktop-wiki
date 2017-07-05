@@ -8,7 +8,7 @@ There are two types of customers - farmers and dehaat coordinators. In order to 
 5. [Record payment information](#record-payment-information)
 
 
-### Create a new sales order###
+### Create a new sales order
 ```Sales --> Sales Orders --> Create```
 
 **Customer:** Start typing the name of the customer and the name would appear in the drop down. If there are multiple customers with the same name, it is possible to search using phone number (instructions for the same coming soon) If a customer doesn't exist, a new one can be created from the drop down itself. Please note that as of now, all users can [add a new Customer](access rights.md)
@@ -18,13 +18,13 @@ There are two types of customers - farmers and dehaat coordinators. In order to 
 Enter products in the **Order Lines** tab. 
 No need to enter any information in the **Other Information** tab. This tab would be used later when fulfiling the order.
 
-### Confirm the Sales Order###
+### Confirm the Sales Order
 
 ```Sales --> Sales Orders --> Select Order```
 
 Once the Order form opens click on ```Confirm Sale```
 
-### Fulfil the Order###
+### Fulfil the Order
 
 As soon as you click on Confirm Order, you will see a Delivery button appears on the Order page. Click on the delivery button to enter information about fulfilment. 
 	+ In the additional info section, select whether delivery is Partial or All at Once
@@ -35,7 +35,7 @@ Once the transfer information has been added to the Sales Order, that informatio
 
 Once all the required transfers have been completed, the Order fulfilment can be recorded by clicking on the ```Validate``` button.
 
-### Generate and deliver invoice###
+### Generate and deliver invoice
 
 You can see a list of all orders to be fulfilled by navigating as below
 ```Sales --> Confirmed Orders```
